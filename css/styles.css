@@ -500,8 +500,8 @@ input {
 .footer .links {
     display: flex;
     flex-direction: row;
-    gap: 80px;
-    margin-left: 810px;
+    gap: 75px;
+    margin-left: 417px;
 }
 
 .footer .links div {
